@@ -12,6 +12,6 @@
   "coverageAnalysis": "off",
   "tsconfigFile": "tsconfig.json",
   "mutate": [
-    "src/**/*.ts"
+    "src/**.ts"
   ]
 }
